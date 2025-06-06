@@ -1,0 +1,21 @@
+#div1{
+    border: 5px blue solid;
+    background-color: blue;
+    padding: 20px;
+}
+#div2{
+    border: 5px green solid;
+    background-color: green;
+    padding: 30px;
+
+}
+#div3{
+    border: 5px red solid;
+    background-color: red;
+    padding: 30px;
+
+}
+.grocery-list {
+    border: 5px blue solid;
+}
+
